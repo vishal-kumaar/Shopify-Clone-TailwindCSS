@@ -1,4 +1,4 @@
-## 🔗Shopify Clone Link
+## 🔗Shopify Clone Live Link
 https://tailwindcss-shopify-clone.netlify.app/
 
 # ✨ TailwindCSS Project:Shopify Clone ✨
