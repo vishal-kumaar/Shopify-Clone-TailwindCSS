@@ -37,7 +37,7 @@ This assignment is written in **HTML5, CSS3 and TailwindCSS** which is given in 
 ## 💬 Connect With Me
 
 - **LinkedIn** - https://www.linkedin.com/in/vishal-kumar-909758228/
-- **Instagram** - https://www.instagram.com/_vishal.kumar07/
+- **Instagram** - https://www.instagram.com/_visshal_yadav/
 
 ## 📌 Acknowledgments
 
