@@ -1,5 +1,5 @@
 ## 🔗Shopify Clone Live Link
-https://tailwindcss-shopify-clone.netlify.app/
+https://vishal-kumaar.github.io/Shopify-Clone-TailwindCSS/
 
 # ✨ TailwindCSS Project:Shopify Clone ✨
 This assignment is written in **HTML5, CSS3 and TailwindCSS** which is given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.
